@@ -1,1 +1,3 @@
-# .github
+Hi my name is Mitch Coghlan, and I hate game development with a passion. I eat concrete for lunch and dinner, and I know how to slaughter a horde of zombies.
+
+Please be aware that I don't have an Instagram, Twitter, Facebook or Reddit account. If you wish to contact me then please do so either on Discord (@silvr64x), through my email address (silvr64x@hotmail.com) or on Mastodon (@MitchC@mastodon.gamedev.place)
